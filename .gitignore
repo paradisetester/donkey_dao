@@ -1,0 +1,8 @@
+./node
+node_modules
+env
+evn
+.env
+venv
+.localenv
+.serverenv

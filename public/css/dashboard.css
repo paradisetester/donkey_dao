@@ -1,0 +1,275 @@
+.admin_header .navbar {
+  padding: 10px 24px;
+}
+
+.admin_header.fixHeader .navbar {
+  padding: 5px 15px;
+}
+
+.admin_header a.navbar-brand {
+  line-height: 1;
+}
+
+.admin_cont_wrapper {
+  display: flex;
+  min-height: calc(100vh - 66px);
+  margin-top: 66px;
+}
+
+.admin_content {
+  width: 100%;
+  padding: 30px;
+  background-color: #f9f9f9;
+}
+
+.sidebar {
+  margin: 0;
+  padding: 10px 0;
+}
+
+.sidebar li a {
+  display: block;
+  color: #ffffff;
+  padding: 10px 10px 10px 15px;
+  border-right: 5px solid #1c1c1c;
+}
+
+.sidebar li a:focus,
+.sidebar li a:hover {
+  color: #000000;
+  background-color: rgb(255 255 255 / 80%);
+  border-right: 5px solid #ffd92e;
+}
+
+.sidebar li ul li a {
+  padding-left: 24px;
+}
+
+form.admin_form {
+  max-width: 600px;
+  margin: auto;
+  padding: 30px;
+  background-color: #ffffff;
+  box-shadow: 0 0 8px #e7e7e7;
+  position: relative;
+}
+
+.table_outer {
+  padding: 15px;
+  background-color: #ffffff;
+  box-shadow: 0 0 8px #e7e7e7;
+}
+
+.pro-sidebar-header {
+  text-align: center;
+  font-size: 42px;
+  color: #ff8801;
+  line-height: normal;
+}
+
+.pro-sidebar-header svg {
+  margin-bottom: 8px;
+}
+
+.pro-sidebar-footer {
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+}
+
+button.cstm_btn.form_top_btn {
+  margin: 0 auto 15px;
+  display: inherit;
+}
+
+.form-control {
+  height: 46px;
+}
+
+.form-control:focus {
+  border-color: #ff8801;
+  box-shadow: none;
+}
+
+.form-check-input:checked {
+  background-color: #ff8801;
+  border-color: #ff8801;
+}
+
+.form_wrapper {
+  min-height: 100vh;
+  background-color: #f9f9f9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+}
+
+.cstm_form {
+  width: 100%;
+  max-width: 560px;
+  margin: auto;
+  background-color: #ffffff;
+  padding: 50px;
+  box-shadow: 0 0 8px #e7e7e7;
+}
+
+span.already_mem {
+  display: block;
+  font-size: 17px;
+  margin-bottom: 20px;
+}
+
+span.already_mem a {
+  font-family: "SpaceGrotesk-Bold";
+}
+
+.form-loading {
+  position: absolute;
+  height: 85%;
+  width: 100%;
+  background-color: #595858;
+  opacity: 0.3;
+  margin-left: -30px;
+  margin-top: -30px;
+  z-index: 999;
+}
+
+.admin_header .navbar {
+  padding: 10px 24px;
+}
+
+.admin_header.fixHeader .navbar {
+  padding: 5px 15px;
+}
+
+.admin_header a.navbar-brand {
+  line-height: 1;
+}
+
+.admin_cont_wrapper {
+  display: flex;
+  min-height: calc(100vh - 66px);
+  margin-top: 66px;
+}
+
+.admin_content {
+  width: 100%;
+  padding: 30px;
+  background-color: #f9f9f9;
+}
+
+.sidebar {
+  margin: 0;
+  padding: 10px 0;
+}
+
+.sidebar li a {
+  display: block;
+  color: #ffffff;
+  padding: 10px 10px 10px 15px;
+  border-right: 5px solid #1c1c1c;
+}
+
+.sidebar li a:focus,
+.sidebar li a:hover {
+  color: #000000;
+  background-color: rgb(255 255 255 / 80%);
+  border-right: 5px solid #ffd92e;
+}
+
+.sidebar li ul li a {
+  padding-left: 24px;
+}
+
+form.admin_form {
+  max-width: 600px;
+  margin: auto;
+  padding: 30px;
+  background-color: #ffffff;
+  box-shadow: 0 0 8px #e7e7e7;
+  position: relative;
+}
+
+.table_outer {
+  padding: 15px;
+  background-color: #ffffff;
+  box-shadow: 0 0 8px #e7e7e7;
+}
+
+.pro-sidebar-header {
+  text-align: center;
+  font-size: 42px;
+  color: #ff8801;
+  line-height: normal;
+}
+
+.pro-sidebar-header svg {
+  margin-bottom: 8px;
+}
+
+.pro-sidebar-footer {
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+}
+
+button.cstm_btn.form_top_btn {
+  margin: 0 auto 15px;
+  display: inherit;
+}
+
+.form-control {
+  height: 46px;
+}
+
+.form-control:focus {
+  border-color: #ff8801;
+  box-shadow: none;
+}
+
+.form-check-input:checked {
+  background-color: #ff8801;
+  border-color: #ff8801;
+}
+
+.form_wrapper {
+  min-height: 100vh;
+  background-color: #f9f9f9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+}
+
+.cstm_form {
+  width: 100%;
+  max-width: 560px;
+  margin: auto;
+  background-color: #ffffff;
+  padding: 50px;
+  box-shadow: 0 0 8px #e7e7e7;
+}
+
+span.already_mem {
+  display: block;
+  font-size: 17px;
+  margin-bottom: 20px;
+}
+
+span.already_mem a {
+  font-family: "SpaceGrotesk-Bold";
+}
+
+.form-loading {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  height: calc(100% - 90px);
+  width: 100%;
+  z-index: 1;
+}
+
+.text-center .header_btn .nav-link {
+  margin: 0 auto;
+}
